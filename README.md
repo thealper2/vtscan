@@ -8,7 +8,7 @@ Scan hashes, urls and ip addresses using VirusTotal API. writes the report to a 
 #### Run the following command to install the required modules.
 
 ```http
-  pip3 install -m requirements.txt
+  pip3 install -r requirements.txt
 ```
 
 | Parameter | Tip      | Açıklama                                 |

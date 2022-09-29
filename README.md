@@ -14,7 +14,7 @@ Scan hashes, urls and ip addresses using VirusTotal API. writes the report to a 
 | Parameter | Tip      | Açıklama                                 |
 | :-------- | :------- | :--------------------------------------- |
 | `-h`      | `--help` | Shows the help menu.                     |
-| `-k`      | `--key`  | **Necessary**. VirusTotal API Key.       |
+| `-k`      | `--key`  | **Required**. VirusTotal API Key.       |
 | `-x`      | `--hash` | Hash (MD5, SHA-1, SHA-256).              |
 | `-i`      | `--ip`   | IP Address                               |
 | `-u`      | `--url`  | URL.                                     |
